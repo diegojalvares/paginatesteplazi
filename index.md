@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Valdy
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
